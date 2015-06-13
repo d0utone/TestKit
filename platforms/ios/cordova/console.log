@@ -1,0 +1,88 @@
+2015-06-13 22:39:37.026 Playground[4405:242919] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/can/Library/Developer/CoreSimulator/Devices/9B4F1380-C7B3-414E-8A8D-5E14F72C6657/data/Containers/Data/Application/60CA3D72-9B1B-41B6-B05B-DD6B940FF275/Library/Cookies/Cookies.binarycookies
+2015-06-13 22:39:37.272 Playground[4405:242919] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-13 22:39:37.273 Playground[4405:242919] Multi-tasking -> Device: YES, App: YES
+2015-06-13 22:39:37.280 Playground[4405:242919] Unlimited access to network resources
+2015-06-13 22:39:37.289 Playground[4405:242919] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-13 22:39:38.246 Playground[4405:242919] Resetting plugins due to page load.
+2015-06-13 22:39:38.412 Playground[4405:242919] Finished load of: file:///Users/can/Library/Developer/CoreSimulator/Devices/9B4F1380-C7B3-414E-8A8D-5E14F72C6657/data/Containers/Bundle/Application/720DA59B-4B47-41FA-A865-F74FD5D4FAD1/Playground.app/www/index.html
+2015-06-13 22:42:47.706 Playground[4606:244953] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/can/Library/Developer/CoreSimulator/Devices/9B4F1380-C7B3-414E-8A8D-5E14F72C6657/data/Containers/Data/Application/78FCC8A0-C651-4932-B050-3F7A692C1DCA/Library/Cookies/Cookies.binarycookies
+2015-06-13 22:42:47.814 Playground[4606:244953] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-13 22:42:47.814 Playground[4606:244953] Multi-tasking -> Device: YES, App: YES
+2015-06-13 22:42:47.817 Playground[4606:244953] Unlimited access to network resources
+2015-06-13 22:42:47.821 Playground[4606:244953] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-13 22:42:48.142 Playground[4606:244953] Resetting plugins due to page load.
+2015-06-13 22:42:48.240 Playground[4606:244953] Finished load of: file:///Users/can/Library/Developer/CoreSimulator/Devices/9B4F1380-C7B3-414E-8A8D-5E14F72C6657/data/Containers/Bundle/Application/AA4CA8B0-BDF3-41B9-89BF-F1DDE5BDDD74/Playground.app/www/index.html
+2015-06-13 22:59:18.480 Playground[4896:252664] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/can/Library/Developer/CoreSimulator/Devices/9B4F1380-C7B3-414E-8A8D-5E14F72C6657/data/Containers/Data/Application/18FB391B-149F-4B3D-B178-13B11EADE2CA/Library/Cookies/Cookies.binarycookies
+2015-06-13 22:59:18.587 Playground[4896:252664] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-13 22:59:18.588 Playground[4896:252664] Multi-tasking -> Device: YES, App: YES
+2015-06-13 22:59:18.589 Playground[4896:252664] Unlimited access to network resources
+2015-06-13 22:59:18.592 Playground[4896:252664] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-13 22:59:18.826 Playground[4896:252664] Resetting plugins due to page load.
+2015-06-13 22:59:19.583 Playground[4896:252664] Finished load of: file:///Users/can/Library/Developer/CoreSimulator/Devices/9B4F1380-C7B3-414E-8A8D-5E14F72C6657/data/Containers/Bundle/Application/88997A41-2D50-4C71-88CE-858E29F12B25/Playground.app/www/index.html
+2015-06-13 23:00:30.382 Playground[5094:254503] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/can/Library/Developer/CoreSimulator/Devices/9B4F1380-C7B3-414E-8A8D-5E14F72C6657/data/Containers/Data/Application/9E5E511E-663A-494D-8DE9-AB60013D69A2/Library/Cookies/Cookies.binarycookies
+2015-06-13 23:00:30.515 Playground[5094:254503] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-13 23:00:30.516 Playground[5094:254503] Multi-tasking -> Device: YES, App: YES
+2015-06-13 23:00:30.518 Playground[5094:254503] Unlimited access to network resources
+2015-06-13 23:00:30.522 Playground[5094:254503] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-13 23:00:30.702 Playground[5094:254503] Resetting plugins due to page load.
+2015-06-13 23:00:30.970 Playground[5094:254503] Finished load of: file:///Users/can/Library/Developer/CoreSimulator/Devices/9B4F1380-C7B3-414E-8A8D-5E14F72C6657/data/Containers/Bundle/Application/047E4CC0-4C03-422A-9857-E0EEAA0D724D/Playground.app/www/index.html
+2015-06-13 23:06:58.496 Playground[5094:256679] Communications error: <OS_xpc_error: <error: 0x2d0c5f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2d0c83c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-06-13 23:09:33.255 Playground[5274:258709] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/can/Library/Developer/CoreSimulator/Devices/9B4F1380-C7B3-414E-8A8D-5E14F72C6657/data/Containers/Data/Application/2C5F0FB7-E8CA-45E9-99FA-A9EA18BD9E47/Library/Cookies/Cookies.binarycookies
+2015-06-13 23:09:33.386 Playground[5274:258709] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-13 23:09:33.387 Playground[5274:258709] Multi-tasking -> Device: YES, App: YES
+2015-06-13 23:09:33.389 Playground[5274:258709] Unlimited access to network resources
+2015-06-13 23:09:33.392 Playground[5274:258709] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-13 23:09:33.633 Playground[5274:258709] Resetting plugins due to page load.
+2015-06-13 23:09:33.884 Playground[5274:258709] Finished load of: file:///Users/can/Library/Developer/CoreSimulator/Devices/9B4F1380-C7B3-414E-8A8D-5E14F72C6657/data/Containers/Bundle/Application/83EBAC61-251F-4FDD-AFCC-4BBED344B61E/Playground.app/www/index.html
+2015-06-13 23:11:32.100 Playground[5274:259911] Terminating since there is no system app.
+2015-06-13 23:11:45.151 Playground[5425:260553] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/can/Library/Developer/CoreSimulator/Devices/9B4F1380-C7B3-414E-8A8D-5E14F72C6657/data/Containers/Data/Application/658A5E32-47A2-4AFF-9888-C919BEEBA111/Library/Cookies/Cookies.binarycookies
+2015-06-13 23:11:45.270 Playground[5425:260553] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-13 23:11:45.271 Playground[5425:260553] Multi-tasking -> Device: YES, App: YES
+2015-06-13 23:11:45.275 Playground[5425:260553] Unlimited access to network resources
+2015-06-13 23:11:45.278 Playground[5425:260553] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-13 23:11:45.467 Playground[5425:260553] Resetting plugins due to page load.
+2015-06-13 23:11:45.718 Playground[5425:260553] Finished load of: file:///Users/can/Library/Developer/CoreSimulator/Devices/9B4F1380-C7B3-414E-8A8D-5E14F72C6657/data/Containers/Bundle/Application/D977696C-C104-475C-BE59-95A9757FA7B6/Playground.app/www/index.html
